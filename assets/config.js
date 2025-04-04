@@ -16,7 +16,7 @@ let config = {
     {
       "Title": "Supra Build",
       "URL": "https://carbuild.co/c/2022-toyota-supra-1",
-      "icon_classes": "fab fa-car"
+      "icon_classes": "fab fa-solid fa-car"
     },
   ]
 }
