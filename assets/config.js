@@ -1,7 +1,7 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Keelhauler's Links",
+  "Name": "Sameer Variend",
+  "Description": "Cars, Tech, and Photography",
   "links": [
     {
       "Title": "Website",
