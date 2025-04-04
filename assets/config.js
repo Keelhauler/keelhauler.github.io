@@ -1,6 +1,6 @@
-let config = {
+hlet config = {
   "Title": "Keelhauler's Links",
-  "Name": "Sameer Variend",
+  "Name": "Sameer 'Keelhauler' Variend",
   "Description": "Cars, Tech, and Photography",
   "links": [
     {
