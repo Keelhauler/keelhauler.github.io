@@ -6,7 +6,7 @@ let config = {
     {
       "Title": "Instagram",
       "URL": "https://www.instagram.com/the.a90.guy",
-      "icon_classes": "fas fa-instagram",
+      "icon_classes": "fab fa-instagram",
     },
     {
       "Title": "Github",
