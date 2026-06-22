@@ -18,5 +18,10 @@ let config = {
       "URL": "https://carbuild.co/c/2022-toyota-supra-1",
       "icon_classes": "fas fa-car"
     },
+    {
+      "Title": "G80 Build",
+      "URL": "https://carbuild.co/c/2026-bmw-m3",
+      "icon_classes": "fas fa-car"
+    },
   ]
 }
